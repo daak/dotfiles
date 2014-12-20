@@ -1,4 +1,4 @@
 dotfiles
 ========
 
-Coniguration files and simple scripts.
+Configuration files and simple scripts.
